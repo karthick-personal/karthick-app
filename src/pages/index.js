@@ -1,0 +1,1 @@
+export {UpdateTableData} from './UpdateTableData';
